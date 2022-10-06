@@ -1,1 +1,1 @@
-0x01. Shell, permissions
+THIS IS ABOUT SHELL PERMISSIONS
